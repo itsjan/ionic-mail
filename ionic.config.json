@@ -1,0 +1,8 @@
+{
+  "name": "Ionic Mail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4042c1af"
+}
